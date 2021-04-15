@@ -7,7 +7,7 @@
 
 
 
-:teddy_bear:	:zzz:	
+:teddy_bear::zzz:	
 
 <!--
 img

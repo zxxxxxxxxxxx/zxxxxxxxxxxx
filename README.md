@@ -1,8 +1,8 @@
 ### Hey~ 👋
 > I'm Bear, a Developer from GuangZhou, China.
 
-:teddy_bear::zzz:	
 ![](https://github-readme-stats.vercel.app/api?username=zxxxxxxxxxxx&theme=dark)
+:teddy_bear::zzz:	
 
 <!--
 img

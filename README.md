@@ -3,7 +3,7 @@
 
 :teddy_bear::zzz:	
 
-<img src="https://wpimg.wallstcn.com/0e03b7da-db9e-4819-ba10-9016ddfdaed3" width="50%" height="50%" />
+<img src="https://wpimg.wallstcn.com/0e03b7da-db9e-4819-ba10-9016ddfdaed3" width="75%" height="75%" />
 
 <!--
 img

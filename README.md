@@ -1,6 +1,8 @@
 ### Hey~ 👋
 > I'm Bear, a Developer from GuangZhou, China.
 
+:zzz:	
+
 <!--
 img
 ![Alt Text](https://wpimg.wallstcn.com/0e03b7da-db9e-4819-ba10-9016ddfdaed3)

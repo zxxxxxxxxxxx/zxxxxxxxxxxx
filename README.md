@@ -1,5 +1,5 @@
 ### Hey~ 👋
-*I'm Bear, a Developer from GuangZhou, China.*
+> I'm Bear, a Developer from GuangZhou, China.
 
 <!--
 img

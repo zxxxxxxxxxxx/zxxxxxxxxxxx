@@ -1,5 +1,5 @@
 ### Hey~ 👋
-- I'm Zxx, a Developer from GuangZhou, China.
+_I'm Zxx, a Developer from GuangZhou, China._
 
 <!--
 img

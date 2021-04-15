@@ -1,6 +1,12 @@
 ### Hey~ 👋
 > I'm Bear, a Developer from GuangZhou, China.
 
+
+
+
+
+
+
 :zzz:	
 
 <!--

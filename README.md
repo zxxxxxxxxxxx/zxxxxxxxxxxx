@@ -1,6 +1,6 @@
 ### Hi 👋
 
-Format: ![Alt Text](https://wpimg.wallstcn.com/0e03b7da-db9e-4819-ba10-9016ddfdaed3)
+![Alt Text](https://wpimg.wallstcn.com/0e03b7da-db9e-4819-ba10-9016ddfdaed3)
 
 <!--
 ![](https://github-readme-stats.vercel.app/api?username=zxxxxxxxxxxx&theme=dark)

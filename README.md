@@ -1,7 +1,5 @@
 <h2 align="center">Hey~ 👋</h2>
-<h4 align="center">I'm Bear, a Developer from GuangZhou, China.</h4>
-
-<p align="center">:teddy_bear::zzz:</p>
+<h4 align="center">I'm Bear, a Developer from GuangZhou, China.:teddy_bear:</h4>
 
 <!--
 <p align="center">

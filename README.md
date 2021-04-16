@@ -1,6 +1,6 @@
 <h2 align="center">Hey~ 👋</h2>
 
-<h4 align="center">I'm Bear, a Developer from GuangZhou, China.:teddy_bear:</h4>
+<h4>I'm Bear, a Developer from GuangZhou, China.:teddy_bear:</h4>
 
 ```javascript
 

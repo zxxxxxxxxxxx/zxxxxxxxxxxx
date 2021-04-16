@@ -1,4 +1,4 @@
-### Hey~ 👋
+<h2 align="center">Hey~ 👋</h2>
 > I'm Bear, a Developer from GuangZhou, China.
 
 :teddy_bear::zzz:	

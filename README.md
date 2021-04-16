@@ -1,4 +1,4 @@
-<h2 align="center">Hey~ 👋</h2>
+<h2>Hey~ 👋</h2>
 
 <h4>I'm Bear, a Developer from GuangZhou, China.:teddy_bear:</h4>
 

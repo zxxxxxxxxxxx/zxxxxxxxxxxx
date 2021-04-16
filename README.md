@@ -1,5 +1,5 @@
 <h2 align="center">Hey~ 👋</h2>
-> I'm Bear, a Developer from GuangZhou, China.
+<h4 align="center">I'm Bear, a Developer from GuangZhou, China.</h4>
 
 :teddy_bear::zzz:	
 

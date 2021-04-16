@@ -3,9 +3,11 @@
 
 <p align="center">:teddy_bear::zzz:</p>
 
+<!--
 <p align="center">
   <img src="https://wpimg.wallstcn.com/0e03b7da-db9e-4819-ba10-9016ddfdaed3" width="80%" height="80%" />
 </p>
+-->
 
 <!--
 img
